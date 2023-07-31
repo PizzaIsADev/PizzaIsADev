@@ -1,1 +1,1 @@
-<center> # Hi there, I'm Pizza. </center>
+# Hi there, I'm Pizza.
